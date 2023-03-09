@@ -1,2 +1,2 @@
-#!/basin/bash
+#!/bin/bash
 chmod -R +X .
