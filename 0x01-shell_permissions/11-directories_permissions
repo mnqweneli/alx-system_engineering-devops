@@ -1,0 +1,2 @@
+#!/basin/bash
+chmod -R +X .
